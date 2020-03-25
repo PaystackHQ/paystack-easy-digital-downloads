@@ -191,7 +191,7 @@ class EDD_Paystack
 			),
 			array(
 				'id'	=>	'test_public_key',
-				'name'	=>	__( 'Paystack.com Public Key', 'po_paystack' ),
+				'name'	=>	__( 'Paystack.com Test Public Key', 'po_paystack' ),
 				'desc'	=>	__( 'This is the Test Public Key provided by Paystack.com when you signed up for an account.', 'po_paystack' ),
 				'type'	=>	'text',
 			),
